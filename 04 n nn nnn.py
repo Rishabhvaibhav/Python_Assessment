@@ -10,3 +10,5 @@ while True:
         break
     except:
         print('Invalid entry. The number should be an integer.')
+
+
